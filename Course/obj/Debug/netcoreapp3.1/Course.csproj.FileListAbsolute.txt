@@ -1,0 +1,13 @@
+C:\Users\jvoli\OneDrive\Documentos\RF\C#\Course\Course\bin\Debug\netcoreapp3.1\Course.exe
+C:\Users\jvoli\OneDrive\Documentos\RF\C#\Course\Course\bin\Debug\netcoreapp3.1\Course.deps.json
+C:\Users\jvoli\OneDrive\Documentos\RF\C#\Course\Course\bin\Debug\netcoreapp3.1\Course.runtimeconfig.json
+C:\Users\jvoli\OneDrive\Documentos\RF\C#\Course\Course\bin\Debug\netcoreapp3.1\Course.runtimeconfig.dev.json
+C:\Users\jvoli\OneDrive\Documentos\RF\C#\Course\Course\bin\Debug\netcoreapp3.1\Course.dll
+C:\Users\jvoli\OneDrive\Documentos\RF\C#\Course\Course\bin\Debug\netcoreapp3.1\Course.pdb
+C:\Users\jvoli\OneDrive\Documentos\RF\C#\Course\Course\obj\Debug\netcoreapp3.1\Course.csprojAssemblyReference.cache
+C:\Users\jvoli\OneDrive\Documentos\RF\C#\Course\Course\obj\Debug\netcoreapp3.1\Course.AssemblyInfoInputs.cache
+C:\Users\jvoli\OneDrive\Documentos\RF\C#\Course\Course\obj\Debug\netcoreapp3.1\Course.AssemblyInfo.cs
+C:\Users\jvoli\OneDrive\Documentos\RF\C#\Course\Course\obj\Debug\netcoreapp3.1\Course.csproj.CoreCompileInputs.cache
+C:\Users\jvoli\OneDrive\Documentos\RF\C#\Course\Course\obj\Debug\netcoreapp3.1\Course.dll
+C:\Users\jvoli\OneDrive\Documentos\RF\C#\Course\Course\obj\Debug\netcoreapp3.1\Course.pdb
+C:\Users\jvoli\OneDrive\Documentos\RF\C#\Course\Course\obj\Debug\netcoreapp3.1\Course.genruntimeconfig.cache
