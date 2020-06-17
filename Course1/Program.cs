@@ -8,7 +8,7 @@ namespace Course1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Ola Mundo");
+            Console.WriteLine("Ola Mundo!");
         }
     }
 }
